@@ -1,0 +1,1 @@
+# Simple site of registration
